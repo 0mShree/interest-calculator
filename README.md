@@ -1,18 +1,12 @@
-## Getting Started
+Simple Interest Calculator 💰<br>
+A Java Swing-based application that calculates Simple Interest based on user input. This lightweight desktop app provides an intuitive GUI where users can enter the Principal amount, Rate of Interest, and Time period to compute the interest instantly.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+✨ Features:<br>
+  📌 User-friendly Graphical Interface using Java Swing<br>
+  🧮 Calculates Simple Interest instantly<br>
+  🔢 Input fields for Principal, Rate, and Time<br>
+  🖱️ Interactive Calculate & Reset buttons<br>
+  🎨 Minimal and clean UI<br><br>
+🔧 Technologies Used: Java Swing (JFrame, JLabel, JTextField, JButton, etc.)
+<br><br>
+<b><big>Repo just created, currently working on it<big>.<b>
